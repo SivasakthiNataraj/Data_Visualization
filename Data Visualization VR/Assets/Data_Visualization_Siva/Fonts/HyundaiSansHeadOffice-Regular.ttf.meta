@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 994b815ff50df594b8a9cfd51d38cee3
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Hyundai Sans Head Office
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 486e1ca0385d67c41b0215a595ee5c85, type: 3}
+  - {fileID: 12800000, guid: 3496d4ab0e3d2f24f9301f1947772f79, type: 3}
+  - {fileID: 12800000, guid: 32b12eecb22dade48b233742c6a4272a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

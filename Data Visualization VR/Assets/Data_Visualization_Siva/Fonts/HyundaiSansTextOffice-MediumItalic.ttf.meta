@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 0306ea28e68032e4d8ba26b23597c251
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Hyundai Sans Text Office
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a185a8118b0bb9f44804e27b18a87fad, type: 3}
+  - {fileID: 12800000, guid: 7206a6ca83cdc3849b24b22ffa773757, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
