@@ -1,0 +1,328 @@
+fileFormatVersion: 2
+guid: b29e474ebaba4524187978870fcbfd2f
+ModelImporter:
+  serializedVersion: 20300
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Marble
+    second: {fileID: 2100000, guid: c69ce40e09b37dc44a0452ad9473f726, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Marble03
+    second: {fileID: 2100000, guid: dd2df1cc2d029d54087e4ad6fb20d6f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Marble04
+    second: {fileID: 2100000, guid: 9128dbcc944d00143a385a048fa0e884, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Metal01
+    second: {fileID: 2100000, guid: ef88d3362dd5a71409fa61e7b6e6a087, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Metal02
+    second: {fileID: 2100000, guid: ba31f4979f4448f428fe06480299ab84, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Metal04
+    second: {fileID: 2100000, guid: aeaff53243c51c049a7ac71f4f5142f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Plants_Set_Leaves_1
+    second: {fileID: 2100000, guid: 5f5d17d7f774a4443b34f2f8cfccc922, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Plants_Set_Leaves_2
+    second: {fileID: 2100000, guid: fb6eb43b429c22f4b8ea74d97e9c90a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Plants_Set_Material
+    second: {fileID: 2100000, guid: 13b3e10a3e49a5840ae59e1b65161ebd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Plants_Set_bark
+    second: {fileID: 2100000, guid: a01e79f9384694d4388a743e71a86cb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Plants_Set_branch
+    second: {fileID: 2100000, guid: 0ddbeb58560e2054ca8c55e6e47d45f8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Plants_Set_branches
+    second: {fileID: 2100000, guid: e02892c484fb8284d8773189720c69be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Plants_Set_cone
+    second: {fileID: 2100000, guid: 346f8973ebb6d6b41ad81aa90eb75e87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Plants_Set_leaf_01
+    second: {fileID: 2100000, guid: 0b19c16c3cc52b8408b3f832cffb229f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Plants_Set_leaf_02
+    second: {fileID: 2100000, guid: c4b80896a596b4b4a9b9189ad1df2900, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Plants_Set_leaf_2
+    second: {fileID: 2100000, guid: 176b686eb1c9f4a4ab23042034ff7faa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Plants_Set_leaf_3
+    second: {fileID: 2100000, guid: 15405b090490910478b64972d05994c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Plants_Set_leaf_4
+    second: {fileID: 2100000, guid: f0ee2a07893f00b45980e836f7971455, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Plants_Set_leaf_5
+    second: {fileID: 2100000, guid: 06b940ccffc68b14ea36e6ac0558d94a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Plants_Set_leaf_6
+    second: {fileID: 2100000, guid: e6faf5e978afa36459caa0f7d4ed7315, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Plants_Set_leaf_7
+    second: {fileID: 2100000, guid: 3f34fb453c370cf4790ca0361b4308e8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Plants_Set_stem
+    second: {fileID: 2100000, guid: 13b2c31f202cfca47a1713e9dd068f3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Plants_Set_trunk_01
+    second: {fileID: 2100000, guid: ed840362c665fb349b5c91526cd7af39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__Wood14.001
+    second: {fileID: 2100000, guid: 44295954ae7239745b453e5efb742942, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__red_dirt_mud_01
+    second: {fileID: 2100000, guid: c642fbe8cce765a479c12cc6d0b7c709, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__red_dirt_mud_02
+    second: {fileID: 2100000, guid: 06fca7c27e4bc064297c91eeffb32ee7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__red_dirt_mud_03
+    second: {fileID: 2100000, guid: 2468ad948bbaefe4797b1d02126baccd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pasted__red_dirt_mud_05
+    second: {fileID: 2100000, guid: cd942011ad77a024b925e27da8913339, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Marble_baseColor
+    second: {fileID: 2800000, guid: b89e15b93b427d7478ff4d1a5ada9f35, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plants_Set_Leaves_1_baseColor
+    second: {fileID: 2800000, guid: ace8f8ce63551424dbd62660d2febc63, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plants_Set_Leaves_2_baseColor
+    second: {fileID: 2800000, guid: f21f3973fd67dbd4498d4414c33113b1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plants_Set_Material_baseColor
+    second: {fileID: 2800000, guid: 2c9902ba20dd0d441bf381669ecbea60, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plants_Set_bark_baseColor
+    second: {fileID: 2800000, guid: c28509b128240e943af0734de9eb5fd0, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plants_Set_branch_baseColor
+    second: {fileID: 2800000, guid: 84cbc5639265bf044a206c52ef846cf7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plants_Set_cone_baseColor
+    second: {fileID: 2800000, guid: 14353976f5c043e4ca898f61058e468d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plants_Set_leaf_01_baseColor
+    second: {fileID: 2800000, guid: 5872693e835388c4189718412e7c0491, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plants_Set_leaf_02_baseColor
+    second: {fileID: 2800000, guid: 29120b1ecc032274fb7f128399204ba8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plants_Set_leaf_2_baseColor
+    second: {fileID: 2800000, guid: 848c5abfc38b3bf47a003da48dd65ee1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plants_Set_leaf_3_baseColor
+    second: {fileID: 2800000, guid: fbf8e70cac8a33c41a01202399ac947d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plants_Set_leaf_4_baseColor
+    second: {fileID: 2800000, guid: eff250faff04ad7458191d42da87330d, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plants_Set_leaf_5_baseColor
+    second: {fileID: 2800000, guid: 1a053201a0106b140b3986f2df9e4184, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plants_Set_leaf_6_baseColor
+    second: {fileID: 2800000, guid: 12508da2b077f494787a16300d48766e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plants_Set_leaf_7_baseColor
+    second: {fileID: 2800000, guid: 54504f8384c5b4b4ea2239321286ee05, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plants_Set_stem_baseColor
+    second: {fileID: 2800000, guid: 1ea7f7a841dbb8249aa7bfc8d42c3e32, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Plants_Set_trunk_01_baseColor
+    second: {fileID: 2800000, guid: 1d7595bc99c12fe449bbf8204edfd491, type: 3}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

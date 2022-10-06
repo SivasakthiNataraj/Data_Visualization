@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - tip
+  - pencil
+  - Graph_Bar
+  - Emp_Name
   layers:
   - Default
   - TransparentFX
@@ -11,8 +15,8 @@ TagManager:
   - 
   - Water
   - UI
-  - 
-  - 
+  - Post_Processing
+  - No Post Processing
   - 
   - 
   - 
@@ -43,4 +47,7 @@ TagManager:
     locked: 0
   - name: Foreground
     uniqueID: 1782008333
+    locked: 0
+  - name: Background
+    uniqueID: 1510340057
     locked: 0
